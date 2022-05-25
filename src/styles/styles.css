@@ -74,6 +74,7 @@ section {
 section h2,
 section h3 {
   margin: 20px 0;
+  height: 28px;
 }
 footer {
   margin: 20px 0;
@@ -87,4 +88,15 @@ footer a {
 }
 .input-container div {
   margin: 10px 0;
+}
+.input-label {
+  margin-left: 10px;
+}
+.super {
+  vertical-align: super;
+  font-size: 16px;
+}
+.sub {
+  vertical-align: sub;
+  font-size: 16px;
 }
